@@ -3,7 +3,7 @@
 This starter will enable authentication on endpoints you have specified in your application configuration.
 Roles can be defined to categorise groups of endpoints under different levels of access. These roles can then be assigned
 to clients.
-
+ 
 ## Usage
 
 ### Declare the dependency
